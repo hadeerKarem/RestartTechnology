@@ -138,7 +138,11 @@ public class MainActivity extends AppCompatActivity{
                 item.setChecked(true);
                 item.setIcon(R.drawable.notification_bottom_icon);
                 break;
-
+                
+            case R.id.profileBottomIcon:
+                item.setChecked(true);
+                item.setIcon(R.drawable.profile_bottom_icon);
+                break;
         }
         return super.onOptionsItemSelected(item);
     }
