@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RestartTechnology</string>
+    <string name="youAreIn">You are in</string>
+    <string name="Location">Misr Al Gadida - Egypt</string>
+    <string name="HotSpots">Hotspots</string>
+    <string name="Events">Events</string>
+    <string name="Attractions">Attractions</string>
+    <string name="ViewAll">View all</string>
+</resources>

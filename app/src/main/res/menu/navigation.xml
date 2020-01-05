@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/homeBottomIcon"
+        android:icon="@drawable/home_bottom_icon"
+        app:showAsAction="always"
+        android:title=""/>
+
+    <item
+        android:id="@+id/searchBottomIcon"
+        android:icon="@drawable/search_grey_bottom_icon"
+        app:showAsAction="always"
+        android:title=""/>
+
+    <item
+        android:id="@+id/bellmanBottomIcon"
+        android:icon="@drawable/bellman_bottom_icon"
+        app:showAsAction="always"
+        android:title=""/>
+
+    <item
+        android:id="@+id/notificationBottomIcon"
+        android:icon="@drawable/notification_grey_bottom_icon"
+        app:showAsAction="always"
+        android:title=""/>
+
+    <item
+        android:id="@+id/profileBottomIcon"
+        android:icon="@drawable/profile_grey_bottom_icon"
+        app:showAsAction="always"
+        android:title="" />
+</menu>
